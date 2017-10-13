@@ -1,2 +1,2 @@
 # first-pwa
-First progressive webapp
+First progressive web application
